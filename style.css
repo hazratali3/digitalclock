@@ -80,3 +80,14 @@ body {
     background: yellow;
     color: black;
   }
+  footer
+  {
+    margin-right: 65%;
+    /* margin-top: 10%; */
+    font-size: 21px;
+    color: aqua;
+  }
+  footer a
+  {
+    color: darkgray;
+  }
